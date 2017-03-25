@@ -36,6 +36,7 @@ source "/Users/rlaney/.zplug/repos/robbyrussell/oh-my-zsh/plugins/tmux/tmux.plug
 source "/Users/rlaney/.zplug/repos/robbyrussell/oh-my-zsh/plugins/vi-mode/vi-mode.plugin.zsh"
 source "/Users/rlaney/.zplug/repos/robbyrussell/oh-my-zsh/plugins/virtualenv/virtualenv.plugin.zsh"
 source "/Users/rlaney/.zplug/repos/robbyrussell/oh-my-zsh/plugins/virtualenvwrapper/virtualenvwrapper.plugin.zsh"
+source "/Users/rlaney/.zplug/repos/tylerreckart/hyperzsh/hyperzsh.zsh-theme"
 source "/Users/rlaney/.zplug/repos/zsh-users/zsh-history-substring-search/zsh-history-substring-search.zsh"
 
 # fpath
