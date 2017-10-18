@@ -32,7 +32,7 @@ source "/Users/rlaney/.zplug/repos/robbyrussell/oh-my-zsh/plugins/ssh-agent/ssh-
 source "/Users/rlaney/.zplug/repos/robbyrussell/oh-my-zsh/plugins/tmux/tmux.plugin.zsh"
 source "/Users/rlaney/.zplug/repos/robbyrussell/oh-my-zsh/plugins/vi-mode/vi-mode.plugin.zsh"
 source "/Users/rlaney/.zplug/repos/tylerreckart/hyperzsh/hyperzsh.zsh-theme"
-source "/Users/rlaney/.zplug/repos/zsh-users/zsh-history-substring-search/zsh-history-substring-search.zsh"
+source "/Users/rlaney/.zplug/repos/zsh-users/zsh-history-substring-search/zsh-history-substring-search.plugin.zsh"
 
 # fpath
 fpath=(/Users/rlaney/.zplug/repos/robbyrussell/oh-my-zsh/plugins/docker /Users/rlaney/.zplug/repos/robbyrussell/oh-my-zsh/plugins/docker /Users/rlaney/.zplug/repos/robbyrussell/oh-my-zsh/plugins/docker-compose /Users/rlaney/.zplug/repos/robbyrussell/oh-my-zsh/plugins/docker-compose /Users/rlaney/.zplug/repos/robbyrussell/oh-my-zsh/plugins/fabric /Users/rlaney/.zplug/repos/robbyrussell/oh-my-zsh/plugins/fabric /Users/rlaney/.zplug/repos/robbyrussell/oh-my-zsh/plugins/github /Users/rlaney/.zplug/repos/robbyrussell/oh-my-zsh/plugins/github /Users/rlaney/.zplug/repos/robbyrussell/oh-my-zsh/plugins/heroku /Users/rlaney/.zplug/repos/robbyrussell/oh-my-zsh/plugins/heroku /Users/rlaney/.zplug/repos/robbyrussell/oh-my-zsh/plugins/tmuxinator /Users/rlaney/.zplug/repos/robbyrussell/oh-my-zsh/plugins/tmuxinator /Users/rlaney/.zplug/repos/robbyrussell/oh-my-zsh/plugins/vagrant /Users/rlaney/.zplug/repos/robbyrussell/oh-my-zsh/plugins/vagrant $fpath)
